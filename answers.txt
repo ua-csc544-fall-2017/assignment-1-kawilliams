@@ -1,0 +1,27 @@
+1. I am taking this course because I am working in the vis lab and I want to improve my vis skills.
+
+2. I think I'll learn some new visualizations and techniques.
+
+3. Python, Java, Javascript, C++ (also HTML, CSS and d3)
+
+4. Python
+
+5. Yes, in my undergraduate Data Visualization course. I built a bar graph, a map using a JSON file, a force directed graph, and parallel coordinates.
+
+6. I've dealt with large datasets in a database course but nothing so large in a vis course that I needed to be super concerned about optimizing my code.
+
+7. no answer
+
+8. no answer
+
+9. I have a scrappy, self-taught knowledge of HTML, CSS, and Javascript (and d3) but I did use those languages during two summers of research. While my use of the languages may not be the prettiest, I am very familiar with them. 75%
+
+10. I was a math major until November of my senior year in undergrad when I switch to the (new) CS major. 95%
+
+11. I don't use version control regularly but I have used it before.
+
+12. I have no experience with Git.
+
+13. I have a good amount of experience with GitHub (but only through the web interface, not the command line).
+
+14. I learned that Matt Grevers (an Olympic swimmer) sometimes is a volunteer assistant coach for UA swimming. Now I really want to try to lap swim at the Hillenbrand pool!
